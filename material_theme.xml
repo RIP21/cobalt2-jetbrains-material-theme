@@ -1,0 +1,19 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.3" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="ffc600" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="accentColor" value="ffc600" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="40" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="tabOpacity" value="53" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="accentTitleBarColor" value="80cbc4" />
+  </component>
+</application>
